@@ -2,7 +2,6 @@
 
 /venv
 client_secret.json
-/python
 
 # System Files
 .DS_Store
